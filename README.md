@@ -26,3 +26,5 @@ Don't forget to "Yes-and" everything your team says!
 4. The instructor will think through each app idea and assign a level of difficulty (1-5).
 5. After  you see the difficulty of your project and hopefully been inspired by other groups ideas decide on your final project idea, keeping the scope in mind.
 
+
+<a href='https://learn.co/lessons/cssi-10.4-ideation' data-visibility='hidden'>View this lesson on Learn.co</a>
